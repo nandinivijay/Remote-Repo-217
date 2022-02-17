@@ -1,1 +1,2 @@
 What is git?
+Git is a source code management system
